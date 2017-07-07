@@ -1,0 +1,127 @@
+configs/AMC Theatres.ini
+configs/ApachePizza.ini
+configs/AppNana.ini
+configs/CBS.ini
+configs/Crunchyroll.ini
+configs/Delivery.ini
+configs/DIRECTVNOW.ini
+configs/Eat24.ini
+configs/Email Checker.ini
+configs/Fitbit.ini
+configs/Greggs.ini
+configs/HBONow.ini
+configs/HideMyAss VPN.ini
+configs/Hotels.ini
+configs/Hulu.ini
+configs/Instagram.ini
+configs/IPVanish.ini
+configs/Kohls.ini
+configs/League of Legends (BR).ini
+configs/League of Legends (EUN).ini
+configs/League of Legends (EUW).ini
+configs/League of Legends (JP).ini
+configs/League of Legends (KR).ini
+configs/League of Legends (LAN).ini
+configs/League of Legends (LAS).ini
+configs/League of Legends (NA).ini
+configs/League of Legends (OCE).ini
+configs/League of Legends (PBE).ini
+configs/League of Legends (RU).ini
+configs/League of Legends (TR).ini
+configs/Minecraft.ini
+configs/Minicabit.ini
+configs/NBA.ini
+configs/Netflix.ini
+configs/PornHub.ini
+configs/Reddit.ini
+configs/Roblox.ini
+configs/Skype Registration.ini
+configs/Sype Un-Registered.ini
+configs/Spectrum.ini
+configs/Spotify.ini
+configs/Subway (UK/IE).ini
+configs/Uplay.ini
+configs/VyprVPN.ini
+configs/WWE.ini
+configs/Yahoo Registration.ini
+configs/Yahoo Un-Registered.ini
+locales/am.pak
+locales/ar.pak
+locales/bg.pak
+locales/bn.pak
+locales/ca.pak
+locales/cs.pak
+locales/da.pak
+locales/de.pak
+locales/el.pak
+locales/en-GB.pak
+locales/en-US.pak
+locales/es.pak
+locales/es-419.pak
+locales/et.pak
+locales/fa.pak
+locales/fi.pak
+locales/fil.pak
+locales/fr.pak
+locales/gu.pak
+locales/he.pak
+locales/hi.pak
+locales/hr.pak
+locales/hu.pak
+locales/id.pak
+locales/it.pak
+locales/ja.pak
+locales/kn.pak
+locales/ko.pak
+locales/lt.pak
+locales/lv.pak
+locales/ml.pak
+locales/mr.pak
+locales/ms.pak
+locales/nb.pak
+locales/nl.pak
+locales/pl.pak
+locales/pt-BR.pak
+locales/pt-PT.pak
+locales/ro.pak
+locales/ru.pak
+locales/sk.pak
+locales/sl.pak
+locales/sr.pak
+locales/sv.pak
+locales/sw.pak
+locales/ta.pak
+locales/te.pak
+locales/th.pak
+locales/tr.pak
+locales/uk.pak
+locales/vi.pak
+locales/zh-CN.pak
+locales/zh-TW.pak
+cef.pak
+cef_100_percent.pak
+cef_200_percent.pak
+cef_extensions.pak
+CefSharp.BrowserSubprocess.Core.dll
+CefSharp.BrowserSubprocess.exe
+CefSharp.Core.dll
+CefSharp.dll
+CefSharp.WinForms.dll
+chrome_elf.dll
+d3dcompiler_47.dll
+devtools_resources.pak
+icudtl.dat
+libcef.dll
+libEGL.dll
+libGLESv2.dll
+natvies_blob.bin
+Newtonsoft.Json.dll
+snapshot_blob.bin
+SNIPR.exe
+System.Reactive.Core.dll
+System.Reactive.Interfaces.dll
+System.Reactive.Linq.dll
+System.Reactive.PlatformServices.dll
+System.Reactive.Windows.Forms.dll
+System.Reactive.Windows.Threading.dll
+widevinecdmadapter.dll
