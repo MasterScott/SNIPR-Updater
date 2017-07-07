@@ -114,7 +114,7 @@ icudtl.dat
 libcef.dll
 libEGL.dll
 libGLESv2.dll
-natvies_blob.bin
+natives_blob.bin
 Newtonsoft.Json.dll
 snapshot_blob.bin
 SNIPR.exe
