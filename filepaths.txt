@@ -36,7 +36,7 @@ configs/PornHub.ini
 configs/Reddit.ini
 configs/Roblox.ini
 configs/Skype Registration.ini
-configs/Sype Un-Registered.ini
+configs/SKype Un-Registered.ini
 configs/Spectrum.ini
 configs/Spotify.ini
 configs/Subway (UK/IE).ini
