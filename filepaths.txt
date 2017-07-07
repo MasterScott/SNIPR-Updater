@@ -39,7 +39,7 @@ configs/Skype Registration.ini
 configs/SKype Un-Registered.ini
 configs/Spectrum.ini
 configs/Spotify.ini
-configs/Subway (UK/IE).ini
+configs/Subway (UK-IE).ini
 configs/Uplay.ini
 configs/VyprVPN.ini
 configs/WWE.ini
