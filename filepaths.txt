@@ -32,6 +32,7 @@ configs/Minecraft.ini
 configs/Minicabit.ini
 configs/NBA.ini
 configs/Netflix.ini
+configs/Origin.ini
 configs/PornHub.ini
 configs/Reddit.ini
 configs/Roblox.ini
