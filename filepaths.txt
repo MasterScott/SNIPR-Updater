@@ -42,6 +42,7 @@ configs/Skype Un-Registered.ini
 configs/Spectrum.ini
 configs/Spotify.ini
 configs/Subway (UK-IE).ini
+configs/TunnelBear.ini
 configs/Uplay.ini
 configs/VyprVPN.ini
 configs/WWE.ini
