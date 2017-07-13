@@ -3,6 +3,7 @@ configs/ApachePizza.ini
 configs/AppNana.ini
 configs/CBS.ini
 configs/Crunchyroll.ini
+configs/Deezer.ini
 configs/Delivery.ini
 configs/DIRECTVNOW.ini
 configs/Eat24.ini
