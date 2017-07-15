@@ -6,6 +6,7 @@ configs/Crunchyroll.ini
 configs/Deezer.ini
 configs/Delivery.ini
 configs/DIRECTVNOW.ini
+configs/Dominos (CA).ini
 configs/Dunkin Donuts (US).ini
 configs/Eat24.ini
 configs/Email Checker.ini
