@@ -51,3 +51,4 @@ configs/WWE.ini
 configs/Yahoo Registration.ini
 configs/Yahoo Un-Registered.ini
 SNIPR.exe
+proxy-sources.txt
