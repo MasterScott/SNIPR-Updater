@@ -19,7 +19,6 @@ configs/Hotels.ini
 configs/Hulu.ini
 configs/Instagram.ini
 configs/IPVanish.ini
-configs/Kohls.ini
 configs/League of Legends (BR).ini
 configs/League of Legends (EUN).ini
 configs/League of Legends (EUW).ini
@@ -38,6 +37,7 @@ configs/NBA.ini
 configs/Netflix.ini
 configs/Origin.ini
 configs/PornHub.ini
+configs/Rapidgator.ini
 configs/Reddit.ini
 configs/Roblox.ini
 configs/Skype Registration.ini
