@@ -11,6 +11,7 @@ configs/Dunkin Donuts (US).ini
 configs/Eat24.ini
 configs/Email Checker.ini
 configs/Fitbit.ini
+configs/Gilt.ini
 configs/Greggs.ini
 configs/HBONow.ini
 configs/HideMyAss VPN.ini
