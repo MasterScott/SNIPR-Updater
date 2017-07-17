@@ -53,3 +53,4 @@ configs/Yahoo Registration.ini
 configs/Yahoo Un-Registered.ini
 SNIPR.exe
 proxy-sources.txt|!Overwrite
+xNet.dll
