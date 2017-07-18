@@ -44,6 +44,7 @@ configs/Spectrum.ini
 configs/Spotify.ini
 configs/Subway (UK-IE).ini
 configs/TunnelBear.ini
+configs/Ulta.ini
 configs/Uplay.ini
 configs/VyprVPN.ini
 configs/WWE.ini
@@ -51,4 +52,3 @@ configs/Yahoo Registration.ini
 configs/Yahoo Un-Registered.ini
 SNIPR.exe
 proxy-sources.txt|!Overwrite
-xNet.dll
