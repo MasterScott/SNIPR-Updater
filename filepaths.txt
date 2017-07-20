@@ -1,2 +1,3 @@
 SNIPR.exe
+config-repos.ini
 proxy-sources.txt|!Overwrite
