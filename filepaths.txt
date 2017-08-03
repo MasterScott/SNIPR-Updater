@@ -1,3 +1,4 @@
 SNIPR.exe
-config-repos.ini
+config-repos.ini|!Overwrite
 proxy-sources.txt|!Overwrite
+System.ValueTuple.dll
