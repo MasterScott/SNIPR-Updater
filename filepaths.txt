@@ -1,4 +1,4 @@
 SNIPR.exe
 config-repos.ini|!Overwrite
-proxy-sources.txt|!Overwrite
+proxy-sources.txt
 System.ValueTuple.dll
